@@ -47,6 +47,9 @@ Eu trabalhei como professor do Ensino Médio em um colégio local por 5 anos, ma
 > Transferir projetos do Gitlab para o Github.
 > Transfer projects from Gitlab to Github.
 
+> Aprender mais sobre programação com PHP e Laravel.
+> Learn more about programming with PHP and Laravel.
+
 > Estudar e aprender mais sobre AWS e computação em nuvem.
 > Study and learn more about AWS and cloud computing.
 
