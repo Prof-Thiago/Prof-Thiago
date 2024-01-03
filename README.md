@@ -1,6 +1,8 @@
 ### Personal Background
 
+<p align="justify"> 
 Eu trabalhei como professor do Ensino Médio em um colégio local por 5 anos, mas eventualmente busquei por uma oportunidade de mudar de carreira, participando de eventos e cursos de desenvolvimento para me tornar um Desenvolvedor Fullstack, finalmente conquistando um trabalho com programação, algo que sempre despertou fascinação em mim.
+</p>
 
 >I worked as a High School teacher in a local college for 5 years, but eventually, I searched for an opportunity to change my career, participating in events and courses for development to become a Fullstack Developer, finally conquering a job with programming, something I always was fascinated with.
 
@@ -41,6 +43,8 @@ Eu trabalhei como professor do Ensino Médio em um colégio local por 5 anos, ma
 * English Advanced
 * Español Basic
 * Français Basic
+
+<hr>
 
 ### Planos Futuros | Future Plans
 
